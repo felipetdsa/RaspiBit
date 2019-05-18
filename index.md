@@ -3,7 +3,7 @@ layout: default
 title: Intro
 nav_order: 
 ---
-## Guia para Iniciantes em Lightning em um Raspberry Pi
+## Guia: Criando um Nó de Bitcoin em um Raspberry Pi
 {: .no_toc }
 
 ## Table of contents
