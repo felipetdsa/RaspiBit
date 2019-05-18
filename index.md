@@ -3,7 +3,7 @@ layout: default
 title: Intro
 nav_order: 
 ---
-## Beginner’s Guide to ️Lightning️ on a Raspberry Pi
+## Guia para Iniciantes em Lightning em um Raspberry Pi
 {: .no_toc }
 
 ## Table of contents
