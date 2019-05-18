@@ -13,12 +13,16 @@ nav_order:
 {:toc}
 
 
-Sempre fui fascinado pelo assunto *Liberdade*! Em 2103 em meio a videos de opiniões políticas e socias sobre a promoção da liberdade me deparei com um vídeo de um velho conhecido, Daniel Fraga, apresentando uma tecnologia chamada Bitcoin. Fiquei desconfiado e ao mesmo tempo encantado com o novo *dinheiro digital, descentralizado e incensurável*. Comecei a estudar a tecnologia o tanto quanto podia e cheguei até a minerar. Minha primeira carteira de bitcoin foi o software original do Bitcoin (Bitcoin-qt), o mesmo que fazemos um *full-node* (Nó de Bitcoin). Sem saber, na época, já estava contribuindo ara a rede, além de ter meu próprio banco, livre e de código aberto. Aqui pretendo ensinar a fazer um nó completo de Bitcoin de baixíssimo custo.
+Sempre fui fascinado pelo assunto *Liberdade*! Em 2103 em meio a videos de opiniões políticas e socias sobre a promoção da liberdade me deparei com um vídeo de um velho conhecido, Daniel Fraga, apresentando uma tecnologia chamada Bitcoin. Fiquei desconfiado e ao mesmo tempo encantado com o novo *dinheiro digital, descentralizado e incensurável*. Comecei a estudar a tecnologia o tanto quanto podia e cheguei até a minerar.
+
+Minha primeira carteira de bitcoin foi o software original do Bitcoin (Bitcoin-qt), o mesmo que fazemos um *full-node* (Nó de Bitcoin). Sem saber, na época, já estava contribuindo ara a rede, além de ter meu próprio banco, livre e de código aberto.
+
+Aqui pretendo ajudar as pessoas apaixonadas pelo bitcoin a fazer um nó completo de baixíssimo custo.
 
 
 ![RaspiBolt Logo](images/raspibit_logo.png)
 
-## Why am I excited about Bitcoin and Lightning?
+## Por quê tem um nó é importante?
 
 **Bitcoin as new technology** is an incredibly interesting endeavor, especially because of its interdisciplinary nature. **Bitcoin as sound money** is going to have a major impact on economic principles and society as a whole. In my opinion, a solid, anti-fragile base layer for this future monetary network is the killer app for blockchains and will be more important than the most novel feature of competing altcoin projects.
 
