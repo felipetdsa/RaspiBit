@@ -6,17 +6,17 @@ nav_order:
 ## Guia: Criando um Nó de Bitcoin em um Raspberry Pi
 {: .no_toc }
 
-## Table of contents
+## Índice
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
-I love to tinker and build stuff. I am also fascinated with digital currencies, so I recently built my own Bitcoin / Lightning Full Node with a simple low-cost Raspberry Pi. I now basically run my own bank using free open-source software and some cheap hardware. 
 
-This project was as much about the learning process as about the result. And I think I succeeded: I learned a lot and my node runs very well. This guide is my attempt to share my learnings and encourage you to run a node yourself.
+Sempre fui fascinado pelo assunto *Liberdade*! Em 2103 em meio a videos de opiniões políticas e socias sobre a promoção da liberdade me deparei com um vídeo de um velho conhecido, Daniel Fraga, apresentando uma tecnologia chamada Bitcoin. Fiquei desconfiado e ao mesmo tempo encantado com o novo *dinheiro digital, descentralizado e incensurável*. Comecei a estudar a tecnologia o tanto quanto podia e cheguei até a minerar. Minha primeira carteira de bitcoin foi o software original do Bitcoin (Bitcoin-qt), o mesmo que fazemos um *full-node* (Nó de Bitcoin). Sem saber, na época, já estava contribuindo ara a rede, além de ter meu próprio banco, livre e de código aberto. Aqui pretendo ensinar a fazer um nó completo de Bitcoin de baixíssimo custo.
 
-![RaspiBolt Logo](images/00_raspibolt_banner_440.png)
+
+![RaspiBolt Logo](images/raspibit_logo.png)
 
 ## Why am I excited about Bitcoin and Lightning?
 
